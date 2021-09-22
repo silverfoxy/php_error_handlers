@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nikic/php-parser": "^4.13",
+        "guiguiboy/php-cli-progress-bar": "^0.0.4"
+    }
+}
